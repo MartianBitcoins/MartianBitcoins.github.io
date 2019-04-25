@@ -408,8 +408,8 @@ a {
   border-radius: 3px; }
 
 .s-alert--warning {
-  border: 1px solid #ee8;
-  background: #fcfce7; }
+  border: 1px solid #205c25;
+  background: #d2ded3; }
 
 .s-alert--info {
   border: 1px solid #69f;
@@ -435,7 +435,7 @@ a {
   background: none; }
 
 .s-inputAlert--warning {
-  border: 1px solid #ee8; }
+  border: 1px solid #205c25; }
 
 .s-inputAlert--info {
   border: 1px solid #69f; }
@@ -1500,7 +1500,7 @@ ul.privacy__ul li {
 
 .OfferTable__header {
   display: flex;
-  background: #f4f4f5;
+  background: #205c25;
   font-weight: bold;
   text-align: center; }
 
