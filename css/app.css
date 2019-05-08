@@ -3252,10 +3252,8 @@ a.AssetPairRow:hover .AssetPair__separator {
 
 body {
   color: #fff;
-  background: url(../bitgamepro/assets/hero.jpg);
-  background-repeat: no-repeat;
-  background-color: #21212a;
-  background-size: contain; }
+  background: #21212a;
+  background: linear-gradient(0deg, #21212a 33%, black 84%); }
   body input {
     background: #3c3c3c;
     color: #bdbdbd; }
