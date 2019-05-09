@@ -1,5 +1,5 @@
 
 // This file generated during the gulp build process.
 window.stBuildInfo = {
-  "version": 1161
+  "version": 1162
 };

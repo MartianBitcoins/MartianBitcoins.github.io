@@ -1221,7 +1221,7 @@ ul.privacy__ul li {
   margin-bottom: -20px; }
 
 .subNavBack {
-  background: #396e3d;
+  background: #6a926e;
   position: relative;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
   overflow: hidden; }
@@ -3037,7 +3037,7 @@ a.AssetPairRow:hover .AssetPair__separator {
 .OpenUp__inside {
   padding: 32px 36px;
   border: 1px solid #063b0a;
-  background: #396e3d;
+  background: #6a926e;
   border-radius: 6px; }
 
 .Error_text_block {
@@ -3308,3 +3308,15 @@ body {
   background: rgba(0, 0, 0, 0.75); }
   .LoginPage__sidebar .LoginPage__sidebar__tab {
     background: #757575; }
+
+.SecurityPhrase.missing {
+  border: 1px solid #b15b5b;
+  background: #b15b5b; }
+
+.SecurityPhrase.exists {
+  border: 1px solid #83c386;
+  background: #83c386; }
+
+.subNavBack {
+  background: none;
+  box-shadow: 0 1px 3px rgba(255, 255, 255, 0.3); }
